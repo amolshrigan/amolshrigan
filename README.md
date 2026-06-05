@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Amol Shrigan 👋
 
-<!--
-**amolshrigan/amolshrigan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MBA Graduate — HR & Marketing | Solapur University  
+📊 Aspiring Data Analyst | Currently upskilling in Power BI & Python  
+📍 Solapur, Maharashtra  
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- **Excel** — Advanced (Pivot Tables, Dashboards, VLOOKUP)
+- **SQL** — Data querying, filtering, aggregation
+- **Tools** — MS Word, PowerPoint, MS-CIT Certified
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Projects
+| Project | Tools | Link |
+|---|---|---|
+| Superstore Sales Dashboard | Excel | [View](#) |
+| HR Attrition Analysis | SQL | [View](#) |
+
+## 📫 Contact
+- Email: shriganamol@gmail.com
+- LinkedIn: *(add your LinkedIn link here)*
