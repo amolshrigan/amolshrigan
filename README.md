@@ -17,4 +17,4 @@
 
 ## 📫 Contact
 - Email: shriganamol@gmail.com
-- LinkedIn: [*(add your LinkedIn link here)*](https://www.linkedin.com/in/amol-shrigan-3903a8415/)
+- LinkedIn: (https://www.linkedin.com/in/amol-shrigan-3903a8415/)
