@@ -12,8 +12,8 @@
 ## 📁 Projects
 | Project | Tools | Link |
 |---|---|---|
-| Superstore Sales Dashboard | Excel | [View](#) |
-| HR Attrition Analysis | SQL | [View](#) |
+| Superstore Sales Dashboard | Excel | [View](https://github.com/amolshrigan/superstore-sales-dashboard) |
+| HR Attrition Analysis | SQL | [View](https://github.com/amolshrigan/hr-attrition-sql) |
 
 ## 📫 Contact
 - Email: shriganamol@gmail.com
